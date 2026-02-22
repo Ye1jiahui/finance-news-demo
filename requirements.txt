@@ -1,3 +1,6 @@
 streamlit
 akshare
 pandas
+plotly
+yfinance
+numpy
